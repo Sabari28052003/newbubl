@@ -1,0 +1,10 @@
+img{
+    height:900px;
+    width:900px;
+    display: block;
+}
+#on,#off{
+    margin-top: 100px;
+    margin-right: 20px;
+    
+}
